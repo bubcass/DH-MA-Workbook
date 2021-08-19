@@ -1,0 +1,860 @@
+{            
+                "name":"root",
+                "debate": [
+                    {
+                                                 "debateType": "questions",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_2.xml"
+                                }
+                            },
+                            "showAs": "Ceisteanna ó Cheannairí - Leaders' Questions",
+                            "containsDebate": true,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 6,
+                                "speechCount": 34
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_2",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_2"
+                    },
+                    {
+                            "debateType": "orderofBusiness",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_3.xml"
+                                }
+                            },
+                            "showAs": "An tOrd Gnó - Order of Business",
+                            "containsDebate": true,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 16,
+                                "speechCount": 98
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_3",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_3"
+                        
+                    },
+                    {
+                            "debateType": "motion",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_4.xml"
+                                }
+                            },
+                            "showAs": "Protection of Young Persons (Employment) (Exclusion of Workers in the Fishing and Shipping Sectors) Regulations 2021: Motion",
+                            "containsDebate": true,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 1,
+                                "speechCount": 1
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_4",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_4"
+                        
+                    },
+                    {
+                            "debateType": "motion",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_5.xml"
+                                }
+                            },
+                            "showAs": "Report of the Committee on Standing Orders and Dáil Reform: Motion",
+                            "containsDebate": true,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 1,
+                                "speechCount": 1
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_5",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_5"
+                     
+                    },
+                    {
+                            "debateType": "questions",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_6.xml"
+                                }
+                            },
+                            "showAs": "Ceisteanna - Questions",
+                            "containsDebate": false,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 0,
+                                "speechCount": 0
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_6",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_6"
+                      
+                    },
+                    {
+	                                                "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_7.xml"
+                                }
+                            },
+                            "showAs": "Northern Ireland",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_6.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna - Questions",
+                                "debateSectionId": "dbsect_6",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_6"
+                            },
+                            "counts": {
+                                "speakerCount": 4,
+                                "speechCount": 5
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_7",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_7"
+                        
+                    },
+                    {
+                     
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_8.xml"
+                                }
+                            },
+                            "showAs": "Northern Ireland",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_6.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna - Questions",
+                                "debateSectionId": "dbsect_6",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_6"
+                            },
+                            "counts": {
+                                "speakerCount": 3,
+                                "speechCount": 4
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_8",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_8"
+                        
+                    },
+                    {
+                      
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_9.xml"
+                                }
+                            },
+                            "showAs": "Departmental Functions",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_6.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna - Questions",
+                                "debateSectionId": "dbsect_6",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_6"
+                            },
+                            "counts": {
+                                "speakerCount": 6,
+                                "speechCount": 7
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_9",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_9"
+                        
+                    },
+                    {
+                     
+                            "debateType": "topical",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_10.xml"
+                                }
+                            },
+                            "showAs": "Ábhair Shaincheisteanna Tráthúla - Topical Issue Matters",
+                            "containsDebate": true,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 1,
+                                "speechCount": 1
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_10",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_10"
+                        
+                    },
+                    {
+                     
+                            "debateType": "statement",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_11.xml"
+                                }
+                            },
+                            "showAs": "Europe Day: Statements",
+                            "containsDebate": true,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 20,
+                                "speechCount": 25
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_11",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_11"
+                        
+                    },
+                    {
+                       
+                            "debateType": "motion",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_12.xml"
+                                }
+                            },
+                            "showAs": "Residential Property Market: Motion [Private Members]",
+                            "containsDebate": true,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 27,
+                                "speechCount": 44
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_12",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_12"
+                        
+                    },
+                    {
+                       
+                            "debateType": "questions",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_13.xml"
+                                }
+                            },
+                            "showAs": "Ceisteanna (Atógáil) - Questions (Resumed)",
+                            "containsDebate": false,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 0,
+                                "speechCount": 0
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_13",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_13"
+                        
+                    },
+                    {
+                       
+                            "debateType": "questions",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_14.xml"
+                                }
+                            },
+                            "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                            "containsDebate": false,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 0,
+                                "speechCount": 0
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_14",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_14"
+                        
+                    },
+                    {
+                       
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_15.xml"
+                                }
+                            },
+                            "showAs": "Foreign Conflicts",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_14.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                                "debateSectionId": "dbsect_14",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_14"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 6
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_15",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_15"
+                        
+                    },
+                    {
+                       
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_16.xml"
+                                }
+                            },
+                            "showAs": "Foreign Conflicts",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_14.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                                "debateSectionId": "dbsect_14",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_14"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 6
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_16",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_16"
+                        
+                    },
+                    {
+                        
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_17.xml"
+                                }
+                            },
+                            "showAs": "Foreign Conflicts",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_14.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                                "debateSectionId": "dbsect_14",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_14"
+                            },
+                            "counts": {
+                                "speakerCount": 3,
+                                "speechCount": 14
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_17",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_17"
+                        
+                    },
+                    {
+                     
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_18.xml"
+                                }
+                            },
+                            "showAs": "Diplomatic Representation",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_14.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                                "debateSectionId": "dbsect_14",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_14"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 6
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_18",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_18"
+                        
+                    },
+                    {
+                       
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_19.xml"
+                                }
+                            },
+                            "showAs": "United Nations",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_14.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna ar Sonraíodh Uain Dóibh - Priority Questions",
+                                "debateSectionId": "dbsect_14",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_14"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 6
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_19",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_19"
+                        
+                    },
+                    {
+                       
+                            "debateType": "questions",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_20.xml"
+                                }
+                            },
+                            "showAs": "Ceisteanna Eile - Other Questions",
+                            "containsDebate": false,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 0,
+                                "speechCount": 0
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_20",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_20"
+                        
+                    },
+                    {
+                       
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_21.xml"
+                                }
+                            },
+                            "showAs": "EU Meetings",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_20.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna Eile - Other Questions",
+                                "debateSectionId": "dbsect_20",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_20"
+                            },
+                            "counts": {
+                                "speakerCount": 3,
+                                "speechCount": 12
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_21",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_21"
+                        
+                    },
+                    {
+                       
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_22.xml"
+                                }
+                            },
+                            "showAs": "Tourism Industry",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_20.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna Eile - Other Questions",
+                                "debateSectionId": "dbsect_20",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_20"
+                            },
+                            "counts": {
+                                "speakerCount": 3,
+                                "speechCount": 7
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_22",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_22"
+                        
+                    },
+                    {
+                       
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_23.xml"
+                                }
+                            },
+                            "showAs": "International Relations",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_20.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna Eile - Other Questions",
+                                "debateSectionId": "dbsect_20",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_20"
+                            },
+                            "counts": {
+                                "speakerCount": 4,
+                                "speechCount": 9
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_23",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_23"
+                        
+                    },
+                    {
+                       
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_24.xml"
+                                }
+                            },
+                            "showAs": "Humanitarian Access",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_20.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna Eile - Other Questions",
+                                "debateSectionId": "dbsect_20",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_20"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 6
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_24",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_24"
+                        
+                    },
+                    {
+                       
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_25.xml"
+                                }
+                            },
+                            "showAs": "Historical Conflicts",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_20.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna Eile - Other Questions",
+                                "debateSectionId": "dbsect_20",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_20"
+                            },
+                            "counts": {
+                                "speakerCount": 4,
+                                "speechCount": 9
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_25",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_25"
+                        
+                    },
+                    {
+                        
+                            "debateType": "question",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_26.xml"
+                                }
+                            },
+                            "showAs": "Northern Ireland",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_20.xml"
+                                    }
+                                },
+                                "showAs": "Ceisteanna Eile - Other Questions",
+                                "debateSectionId": "dbsect_20",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_20"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 6
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_26",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_26"
+                        
+                    },
+                    {
+                       
+                            "debateType": "topical",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_27.xml"
+                                }
+                            },
+                            "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate",
+                            "containsDebate": false,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 0,
+                                "speechCount": 0
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_27",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_27"
+                        
+                    },
+                    {
+                       
+                            "debateType": "debate",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_28.xml"
+                                }
+                            },
+                            "showAs": "Human Rights",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_27.xml"
+                                    }
+                                },
+                                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate",
+                                "debateSectionId": "dbsect_27",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_27"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 4
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_28",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_28"
+                        
+                    },
+                    {
+                       
+                            "debateType": "debate",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_29.xml"
+                                }
+                            },
+                            "showAs": "Middle East",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_27.xml"
+                                    }
+                                },
+                                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate",
+                                "debateSectionId": "dbsect_27",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_27"
+                            },
+                            "counts": {
+                                "speakerCount": 6,
+                                "speechCount": 25
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_29",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_29"
+                        
+                    },
+                    {
+                     
+                            "debateType": "debate",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_30.xml"
+                                }
+                            },
+                            "showAs": "Housing Issues",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_27.xml"
+                                    }
+                                },
+                                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate",
+                                "debateSectionId": "dbsect_27",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_27"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 4
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_30",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_30"
+                        
+                    },
+                    {
+                      
+                            "debateType": "debate",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_31.xml"
+                                }
+                            },
+                            "showAs": "Vaccination Programme",
+                            "containsDebate": true,
+                            "parentDebateSection": {
+                                "formats": {
+                                    "pdf": null,
+                                    "xml": {
+                                        "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_27.xml"
+                                    }
+                                },
+                                "showAs": "Saincheisteanna Tráthúla - Topical Issue Debate",
+                                "debateSectionId": "dbsect_27",
+                                "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_27"
+                            },
+                            "counts": {
+                                "speakerCount": 2,
+                                "speechCount": 4
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_31",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_31"
+                        
+                    },
+                    {
+                      
+                            "debateType": "debate",
+                            "formats": {
+                                "pdf": null,
+                                "xml": {
+                                    "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/mul@/dbsect_32.xml"
+                                }
+                            },
+                            "showAs": "Message from Select Committee",
+                            "containsDebate": true,
+                            "parentDebateSection": null,
+                            "counts": {
+                                "speakerCount": 1,
+                                "speechCount": 1
+                            },
+                            "speakers": [],
+                            "debateSectionId": "dbsect_32",
+                            "bill": null,
+                            "uri": "https://data.oireachtas.ie/akn/ie/debateRecord/dail/2021-05-11/debate/dbsect_32"
+                        }
+		
+	]
+}
